@@ -1,0 +1,4 @@
+SerialNo	FirstName	CGPA	Grade
+1	John	3.8	A
+2	Mary	3.5	B
+3	Alex	3.9	A
